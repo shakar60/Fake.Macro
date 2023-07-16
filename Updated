@@ -1,15 +1,3 @@
--- // M Tool To Speed Up Fake Macro \\ --
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/M/main/Tool",true))()
-
-
--- // N Tool To Slow Down Fake Macro \\ --
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/N/main/Tool",true))()
-
-
 -- // Main Script Fake Macro \\ --
 
 
